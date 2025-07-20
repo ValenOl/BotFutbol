@@ -1,0 +1,13 @@
+# Tokens del Bot
+TELEGRAM_TOKEN=tu_token_de_telegram_aqui
+API_FOOTBALL_TOKEN=tu_token_de_api_football_aqui
+
+# Configuración de Base de Datos
+DATABASE_FILE=users.db
+
+# Configuración de Logging
+LOG_LEVEL=INFO
+LOG_FILE=bot.log
+
+# Configuración de Monitoreo
+MONITORING_INTERVAL=60 
