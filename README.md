@@ -177,9 +177,7 @@ El bot monitorea partidos en vivo cada 60 segundos y envía alertas automáticas
 
 ## 📞 Soporte
 
-Para soporte técnico o consultas sobre suscripciones:
-- Contacta al administrador: @tu_usuario_admin
-- Canal de soporte: @tu_canal_soporte
+
 
 ## 📄 Licencia
 
